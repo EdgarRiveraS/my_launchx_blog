@@ -5,7 +5,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 ---
 
 Hola!!!
-  Buenos Dìas o Noches
+  Buenos Días o Noches
   
 Parta mi la cultura en el desarrollo de software se basa en el compromiso de todos los que integran el equipo de desarrollo
 Donde todos y cada uno tiene el conocimiento necesario para agregar su granito de arena al proyecto, ya sea UI/UX, BackEnd

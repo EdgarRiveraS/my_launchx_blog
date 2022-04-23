@@ -1,6 +1,6 @@
 ---
 title: 1er. Ejercicio de Express con Mongodb
-date: 2022-04-23T00:59:21-06:00
+date: 2022-04-23
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 

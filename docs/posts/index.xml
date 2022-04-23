@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://edgarriveras.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>1er. Ejercicio de Express con Mongodb</title>
+      <link>https://edgarriveras.github.io/my_launchx_blog/posts/post_01/</link>
+      <pubDate>Sat, 23 Apr 2022 00:59:21 -0600</pubDate>
+      
+      <guid>https://edgarriveras.github.io/my_launchx_blog/posts/post_01/</guid>
+      <description>Hola!!! Buenos Días o Noches
+vamos avanzando ya logre conectar la base de datos con express ya integre metodo get aunque aun me falta lograr que funcione el post</description>
+    </item>
+    
+    <item>
       <title>La cultura en el desarrollo de software.</title>
       <link>https://edgarriveras.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Fri, 08 Apr 2022 00:59:21 -0600</pubDate>
